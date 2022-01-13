@@ -2,8 +2,8 @@
 
 <p><em>Developer web</em></p>
  
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/hussainweb/)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/hussain.web/)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/william-jesus-r-398378118/)
+[![Instagram](icons/instagram.png)](https://www.instagram.com/j.willi.rd/)
 
 
 ### A little more about me... 
