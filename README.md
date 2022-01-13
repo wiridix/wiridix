@@ -15,7 +15,7 @@ const william = {
   tools: [React, Vue, Styled-Components, Jest, Heroku, Netlify],
   askMeAbout: ["web dev", "tech", "app dev"],
   technologies: {
-        frontEnd: [HTML, CSS, SASS, Bootstrap, Materialize, Material UI],
+        frontEnd: [HTML, CSS, SASS, Bootstrap, Materialize, MaterialUI],
         backEnd: {
             js: ["Node", "Express"],
         },
