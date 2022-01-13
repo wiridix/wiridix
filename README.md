@@ -1,4 +1,32 @@
-### Hi there 👋
+### Hi, I'm William 👋
+
+<p><em>Developer web</em></p>
+ 
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/hussainweb/)
+[![Instagram](icons/instagram.png)](https://www.instagram.com/hussain.web/)
+
+
+### A little more about me... 
+
+```js
+const william = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, Python],
+  tools: [React, Vue, Styled-Components, Jest, Heroku, Netlify],
+  askMeAbout: ["web dev", "tech", "app dev"],
+  technologies: {
+        frontEnd: [HTML, CSS, SASS, Bootstrap, Materialize, Material UI],
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        databases: ["MongoDB", "MySql", "sqlite"],
+        misc: ["Firebase"]
+    },
+  
+}
+```
+
+### - 🌱 I’m currently learning [Nextjs, Graphql, React-Native]
 
 <!--
 **wiridix/wiridix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
