@@ -2,7 +2,7 @@
 
 <p><em>Developer web</em></p>
  
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/william-jesus-r-398378118/)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/williamrd/)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/j.willi.rd/)
 
 
@@ -26,7 +26,7 @@ const william = {
 }
 ```
 
-### - 🌱 I’m currently learning [Nextjs, Graphql, React-Native]
+### - 🌱 I’m currently learning [Nextjs]
 
 <!--
 **wiridix/wiridix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
