@@ -4,7 +4,7 @@
  
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/williamrd/)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/j.willi.rd/)
-[![Twitter](icons/icon-twitter.png)](https://twitter.com/WilliamJesusRi3)
+[![Twitter](icons/twitter.png)](https://twitter.com/WilliamJesusRi3)
 
 
 ### A little more about me... 
