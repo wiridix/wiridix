@@ -5,6 +5,7 @@
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/williamrd/)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/j.willi.rd/)
 [![Twitter](icons/twitter.png)](https://twitter.com/WilliamJesusRi3)
+[![FrontendMentor](icons/frontmentor.png)](https://www.frontendmentor.io/profile/wiridix)
 
 
 ### A little more about me... 
