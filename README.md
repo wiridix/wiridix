@@ -14,10 +14,10 @@
 const william = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, Python],
-  tools: [React, Vue, Styled-Components, Jest, Heroku, Netlify],
+  tools: [React, Nextjs, Vue, Styled-Components, Jest, Heroku, Netlify],
   askMeAbout: ["web dev", "tech", "app dev"],
   technologies: {
-        frontEnd: [HTML, CSS, SASS, Bootstrap, Materialize, MaterialUI],
+        frontEnd: [HTML, CSS, SASS, Bootstrap, Tailwind CSS, MaterialUI],
         backEnd: {
             js: ["Node", "Express"],
         },
@@ -28,7 +28,7 @@ const william = {
 }
 ```
 
-### - 🌱 I’m currently learning [Nextjs]
+<!-- ### - 🌱 I’m currently learning [Nextjs] -->
 
 <!--
 **wiridix/wiridix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
